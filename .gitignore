@@ -2,4 +2,5 @@
 /target/
 
 # Intellij files
-.idea
+.idea/
+*.iml
