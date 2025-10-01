@@ -10,7 +10,7 @@ Testing java functionalities for general learning purposes.
 
 ## Author
 
-- Wallace Espindola, Sr. Software Engineer / Java & Python Dev
+- Wallace Espindola, Sr. Software Engineer / Solution Architect / Java & Python Dev
 - E-mail: wallace.espindola@gmail.com
 - LinkedIn: https://www.linkedin.com/in/wallaceespindola/
 - Gravatar: https://gravatar.com/wallacese
